@@ -23,12 +23,12 @@ image:DHIS2 search
 ****************************
 Facility360 Functionalities
 ****************************
+-  Has a live search.
 -  Allows search via filtering and an intelligent search 
 -  Has a combination of filters and querries
 -  A facility search result bears a number of information about it.
 -  Pulls data about a facility from both KHMFL and DHIS2 and gives one report
 -  Has a graphical presentation for name conflicts in information present in DHIS2 and KMHFL.
 -  Has a graphical presentation for Code conflicts in information present in DHIS2 and KMHFL.
--  Has a graphical presentation for Geo-codes conflicts in information present in DHIS2 and KMHFL.
--  Incase of any resolutions made a log is kept for persons who resolved the conflict.
+
 
