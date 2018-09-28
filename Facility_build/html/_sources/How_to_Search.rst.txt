@@ -26,3 +26,12 @@ Search by code
 .. image:: /Facility_static/images/screenshot/search_by_code.png
 
 Image:Search by code
+
+*******************
+Search by filters
+*******************
+    This feature allows one to search using different components from organisation units to services. You then query it and search.
+
+.. image:: /Facility_static/images/screenshot/querries.png
+
+image:querries

@@ -13,7 +13,7 @@ Welcome to Facility360 documentation!
     Introduction
     Getting_Started
     How_to_Search
-   
+    Report_resolutions
 
 
 
